@@ -1,12 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>table</title>
-</head>
-<body>
-      <table border="1px" height="20">
-      <tr>
-            <td>1</td>
+a<!DOCTYPE html>
+a<html>
+a<head>
+a<title>table</title>
+a</head>
+a<body>
+a      <table border="1px" height="20">
+a      <tr>
+a            <td>1</td>
             <td>2</td>
             <td>3</td>
       </tr>
